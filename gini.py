@@ -22,6 +22,7 @@ def lorenz(arr):
 
 # show the gini index!
 def showGini(arr):
+    print("gini:")
     print(gini(arr))
 
     lorenz_curve = lorenz(arr)
