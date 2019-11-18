@@ -29,6 +29,7 @@ def displayStats(all, detail):
     print("max funds: ", maxFunds)
     
 if __name__ == "__main__":
+    #text for gittest
     numActors = 1000
     startFunds = 1000
     allActors = {}
